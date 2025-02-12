@@ -1,0 +1,5 @@
+{
+    "cloud_data_url": "https://your-cloud-storage-link.com/vehicle_prices.json",
+    "default_sort": "price_desc",
+    "discount_threshold": 20
+}

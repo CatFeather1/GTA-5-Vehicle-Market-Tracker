@@ -1,0 +1,5 @@
+PyQt5
+matplotlib
+pandas
+requests
+sqlite3
